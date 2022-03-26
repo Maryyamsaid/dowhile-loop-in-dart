@@ -1,0 +1,25 @@
+assigment 8
+6.18: write a program that display backcounting using do while loop
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+6.19: write a program that input two number from user and display first numbeer raise the squre of 2nd number
+enter number 1=3
+enter number 2=3
+3 power 3= 27
+
+6.22: write a program that read statof phoneline as working and dies
+enter w for working and d for died state: d
+died
+
+6.21: write a program that take starting and ending point and print sum of even number using dowhile
+enter starting number2
+enter starting number5
